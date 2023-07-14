@@ -1,0 +1,26 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+body {
+  overflow-x: hidden;
+}
+/* .container {
+  padding: 52px 10px;
+  margin: 0 auto;
+} */
+.common-bg {
+  background-image: url("/images/4.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+.what-we-do {
+  background-image: url("/images/7.jpg");
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.bi {
+  font-size: 90px;
+}
